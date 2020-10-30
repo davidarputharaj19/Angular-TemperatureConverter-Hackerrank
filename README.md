@@ -1,5 +1,7 @@
 # Angular Basic - Hackerrank - TemperatureConverter
 
+<a href="https://snyk.io/test/github/davidarputharaj19/TemperatureConverter-Hackerrank?targetFile=package.json"><img src="https://snyk.io/test/github/davidarputharaj19/TemperatureConverter-Hackerrank/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/davidarputharaj19/TemperatureConverter-Hackerrank?targetFile=package.json" style="max-width:100%;"></a>
+
 All test cases passed.
 
 <h2>How to run</h2>
