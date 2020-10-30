@@ -1,2 +1,4 @@
-# TemperatureConverter-Hackerrank
-Angular Basic - Hackerrank project - TemperatureConverter
+# Angular Basic - Hackerrank project - TemperatureConverter
+
+All test cases passed.
+
