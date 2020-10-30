@@ -12,6 +12,4 @@ addons:
   chrome: stable
 
 script:
-  - npm run
   - npm run build
-  - xvfb-run npm run e2e
