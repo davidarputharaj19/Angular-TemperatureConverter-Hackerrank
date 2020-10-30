@@ -2,9 +2,11 @@
 
 <p>
   
-<img src="https://api.travis-ci.org/davidarputharaj19/TemperatureConverter-Hackerrank.svg?branch=master" alt="Build" style="max-width:100%;"></img>
+<a href="https://badge.fury.io/js/%40angular%2Fcore"><img src="https://badge.fury.io/js/%40angular%2Fcore.svg" alt="npm version" height="18"></a>
+  
+<a><img src="https://api.travis-ci.org/davidarputharaj19/TemperatureConverter-Hackerrank.svg?branch=master" alt="Build" style="max-width:100%;"></img></a>
 
-<img src="https://snyk.io/test/github/davidarputharaj19/TemperatureConverter-Hackerrank/badge.svg?targetFile=package.json" alt="Vulnerabilities" style="max-width:100%;"></img>
+<a href="https://snyk.io/test/github/davidarputharaj19/TemperatureConverter-Hackerrank?targetFile=package.json"><img src="https://snyk.io/test/github/davidarputharaj19/TemperatureConverter-Hackerrank/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/davidarputharaj19/TemperatureConverter-Hackerrank?targetFile=package.json" style="max-width:100%;"></a>
 
 </p>
 
