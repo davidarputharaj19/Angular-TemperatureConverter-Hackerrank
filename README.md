@@ -16,7 +16,7 @@
   <li>Checkout the project</li>
   <li>Goto the project directory</li>
   <li>Run <code>npm install</code> for installing the dependencies</li>
-  <li>Run <code>ng serve</code> for starting the application</li>
+  <li>Run <code>ng serve</code> for starting the application and then access the url using <code>http://localhost:4200</code></li>
   <li>Run <code>ng test</code> for running the test cases</li>
 </ul>
 
