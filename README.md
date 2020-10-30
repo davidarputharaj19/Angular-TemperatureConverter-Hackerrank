@@ -1,7 +1,5 @@
 # Angular Basic - Hackerrank - TemperatureConverter
 
-<img src="https://badge.fury.io/js/%40angular%2Fcore.svg" alt="npm version" height="18"></a>
-
 All test cases passed.
 
 <h2>How to run</h2>
