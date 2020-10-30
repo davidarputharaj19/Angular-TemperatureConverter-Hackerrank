@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "8"
+  - "12.0"
 dist: trusty
 sudo: false
 
@@ -12,7 +12,6 @@ addons:
   chrome: stable
 
 script:
-  - npm run lint
-  - npm run test:headless
+  - npm run
   - npm run build
   - xvfb-run npm run e2e
